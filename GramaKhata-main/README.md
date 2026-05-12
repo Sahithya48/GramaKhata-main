@@ -88,15 +88,10 @@ Push and create a pull request
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Sahithya48
 
 ---
 
