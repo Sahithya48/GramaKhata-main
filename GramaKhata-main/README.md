@@ -9,7 +9,6 @@ A modern Android application designed to help small businesses and shopkeepers m
 • ➕ Add new customers
 • 💰 Track credit and payments
 • 📊 Automatic total due calculation
-• 📱 Send payment reminders
 • ⚡ Simple and user friendly interface
 
 ---
